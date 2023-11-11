@@ -1,4 +1,4 @@
-// problems: https://leetcode.com/problems/add-two-numbers/
+// problem: https://leetcode.com/problems/add-two-numbers/
 class ListNode {
   val: number;
   next: ListNode | null;
